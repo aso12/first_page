@@ -1,0 +1,16 @@
+#andrewsContent {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#andrewsTitle {
+  padding-left: 700px;
+}
+
+#andrewsContent #andrewsList ul {
+  list-style:none;
+}
+
+#andrewsContent #andrewsList li {
+  display: inline;
+}
